@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 public class ExceptionHandling{
     public static void main(String[] args){
-      Scanner s= new Scanner(System.in);
+      Scanner s= new Scanner(System.in);         /// MARRRRRRRRRRRRRRRRRRR JAOOOOOOOOOOOOOOOOOOOO
     try{
         System.out.println("Enter first number: ");
     int a=s.nextInt();
@@ -23,3 +23,4 @@ public class ExceptionHandling{
     }
 
 }//commiting
+
